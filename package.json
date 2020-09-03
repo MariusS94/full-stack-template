@@ -1,0 +1,25 @@
+{
+  "name": "full-stack-template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariusS94/full-stack-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariusS94/full-stack-template/issues"
+  },
+  "homepage": "https://github.com/MariusS94/full-stack-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
